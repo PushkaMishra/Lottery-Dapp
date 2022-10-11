@@ -1,0 +1,21 @@
+.container2{
+    position: relative;
+    right:-340px;
+    bottom: -200px;
+    border: 6px solid grey;
+    width: 55%;
+    padding: 110px 40px;
+    font-weight: bold;
+
+}
+
+.paccount{
+    
+    position: relative;
+    bottom: 55px;
+}
+
+.registeredplayers{
+    position: relative;
+    top:60px;
+}
